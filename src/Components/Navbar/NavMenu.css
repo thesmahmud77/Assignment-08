@@ -1,0 +1,11 @@
+.NavMidlePart a {
+  margin: 20px;
+  color: black;
+  font: bold;
+}
+
+.a :active {
+  margin: 20px;
+  color: rgb(214, 0, 0);
+  font: bold;
+}
