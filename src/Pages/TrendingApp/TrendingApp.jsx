@@ -1,9 +1,16 @@
-import React from "react";
+import React, { Suspense } from "react";
+import TrendingAppMap from "../../Components/TrendingApp/TrendingAppMap";
+
+const homeTrendingPromise = fetch("./Data8.json").then((res) => res.json());
 
 const TrendingApp = () => {
   return (
     <div>
-      <h1>This is Trending Page</h1>
+      <Suspense fallback={<h1>Data Loading</h1>}>
+        <TrendingAppMap
+          homeTrendingPromise={homeTrendingPromise}
+        ></TrendingAppMap>
+      </Suspense>
     </div>
   );
 };

@@ -1,9 +1,14 @@
 import React from "react";
+import NavMenu from "../../Components/Navbar/NavMenu";
+import Footer from "../../Components/Footer/Footer";
+import ErrorContent from "./ErrorContent";
 
 const Error = () => {
   return (
     <div>
-      <h1>Page Not Found</h1>
+      <NavMenu></NavMenu>
+      <ErrorContent></ErrorContent>
+      <Footer></Footer>
     </div>
   );
 };
