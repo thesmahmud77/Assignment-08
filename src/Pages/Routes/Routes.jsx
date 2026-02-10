@@ -21,11 +21,11 @@ export const router = createBrowserRouter([
         loader: () => fetch("/Data8.json"),
         Component: TrendingApp,
       },
-      {
-        path: "/SingleHomeData/:id",
-        loader: () => fetch("/Data8.json"),
-        Component: SingleHomeData,
-      },
     ],
+  },
+  {
+    path: "/SingleHomeData/:id",
+    loader: () => fetch("/Data8.json"),
+    Component: SingleHomeData,
   },
 ]);
