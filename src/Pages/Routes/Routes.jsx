@@ -8,6 +8,7 @@ import TrendingApp from "../TrendingApp/TrendingApp";
 import About from "../About/About";
 import ProudctDetails from "../ProudctDetails/ProudctDetails";
 import SingleHomeData from "../Home/SingleHomeData/SingleHomeData";
+import Apps from "../Apps_Page/Apps";
 
 export const router = createBrowserRouter([
   {
@@ -27,5 +28,11 @@ export const router = createBrowserRouter([
     path: "/SingleHomeData/:id",
     loader: () => fetch("/Data8.json"),
     Component: SingleHomeData,
+  },
+  {
+    path: "/Apps",
+    Component: Apps,
+    errorElement: <Error></Error>,
+    loader: () => fetch("/Data20.json"),
   },
 ]);

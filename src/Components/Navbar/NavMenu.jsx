@@ -19,8 +19,8 @@ const NavMenu = () => {
       </div>
       <div className="NavMidlePart">
         <NavLink to={"/"}>Home</NavLink>
-        <NavLink to={"Apps"}>Apps</NavLink>
-        <NavLink to={"Installation"}>Installation</NavLink>
+        <NavLink to={"/Apps"}>Apps</NavLink>
+        <NavLink to={"/Installation"}>Installation</NavLink>
       </div>
       <div>
         <Link to={"/"}>
