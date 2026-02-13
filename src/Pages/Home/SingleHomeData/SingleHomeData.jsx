@@ -14,7 +14,7 @@ const SingleHomeData = () => {
   const HomeParams = parseInt(id);
   const SingleHFilter = HALoader.find((book) => book.id === HomeParams);
   console.log(SingleHFilter);
-  const { image, companyName, downloads, ratings, longDescription } =
+  const { image, companyName, downloads, ratings, longDescription, size } =
     SingleHFilter;
 
   const HandleInstallApps = (id) => {
@@ -57,7 +57,7 @@ const SingleHomeData = () => {
               onClick={() => HandleInstallApps(id)}
               className="bg-[#632EE3] w-50 h-10 rounded-[5px] btn btn-primary mt-5"
             >
-              Install Now
+              Install Now ({size})MB
             </button>
           </div>
         </div>
