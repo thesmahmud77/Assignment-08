@@ -5,6 +5,7 @@ import Footer from "../../../Components/Footer/Footer";
 import { FaDownload } from "react-icons/fa6";
 import { FaStar } from "react-icons/fa6";
 import { BiSolidLike } from "react-icons/bi";
+import Rating from "./Rating";
 
 const SingleHomeData = () => {
   const HALoader = useLoaderData();
@@ -46,17 +47,29 @@ const SingleHomeData = () => {
                 <h1 className="card-title font-bold text-2xl">{downloads}</h1>
               </div>
             </div>
+            <button className="bg-[#632EE3] w-50 h-10 rounded-[5px] btn btn-primary mt-5">
+              Install Now
+            </button>
           </div>
         </div>
-        <div className="progressBar flex flex-col items-start gap-5 m-10 w-[100%]">
-          {ratings.map((sinRat) => (
-            <progress
-              className="progress w-{sinRat.counts}"
-              value={0}
-              max="100"
-            ></progress>
-          ))}
-        </div>
+      </div>
+      <div className="flex flex-col gap-4 w-full mt-20 mb-20">
+        {ratings.map((rating, index) => {
+          const percentage = (rating.count / 6000) * 100;
+
+          return (
+            <div key={index} className="flex items-center gap-4">
+              <span className="w-16 text-sm">{rating.name}</span>
+              <div className="flex-1 bg-gray-200 rounded-full h-6 overflow-hidden">
+                <div
+                  className="bg-amber-600 h-full transition-all duration-500"
+                  style={{ width: `${percentage}%` }}
+                ></div>
+              </div>
+              <span className="w-12 text-sm font-semibold">{rating.count}</span>
+            </div>
+          );
+        })}
       </div>
       <div className="Description text-left mb-10">
         <h1 className="font-bold text-1xl">Description</h1>
