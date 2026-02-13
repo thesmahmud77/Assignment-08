@@ -18,8 +18,16 @@ const addToStoredDB = (id) => {
     storedbookData.push(id);
     const data = JSON.stringify(storedbookData);
     localStorage.setItem("appList", data);
-    toast("Your Selected Apps");
+    toast("App Install Successfully!");
   }
 };
 
-export { addToStoredDB, getStoredBook };
+const removeFromStoredDB = (id) => {
+  const storedData = getStoredBook();
+  const remainingData = storedData.filter((appId) => appId != id);
+  localStorage.setItem("appList", JSON.stringify(remainingData));
+  // toast.success("App Uninstalled Successfully!");
+
+  alert("App Uninstalled Successfully!");
+};
+export { addToStoredDB, getStoredBook, removeFromStoredDB };

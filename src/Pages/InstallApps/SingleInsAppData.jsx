@@ -2,8 +2,8 @@ import React from "react";
 import { FiDownload } from "react-icons/fi";
 import { GiRoundStar } from "react-icons/gi";
 
-const SingleInsAppData = ({ SinInstallApps }) => {
-  const { image, companyName, ratingAvg, size, downloads } = SinInstallApps;
+const SingleInsAppData = ({ SinInstallApps, handleUninstall }) => {
+  const { id, image, companyName, ratingAvg, size, downloads } = SinInstallApps;
   return (
     <div>
       <div className="flex items-center justify-between bg-white p-3 rounded-xl shadow-xl/5 ring ">
@@ -30,7 +30,12 @@ const SingleInsAppData = ({ SinInstallApps }) => {
             </p>
           </div>
         </div>
-        <button className="btn bg-[#00D390]">Uninstall</button>
+        <button
+          onClick={() => handleUninstall(id)}
+          className="btn bg-[#00D390]"
+        >
+          Uninstall
+        </button>
       </div>
     </div>
   );

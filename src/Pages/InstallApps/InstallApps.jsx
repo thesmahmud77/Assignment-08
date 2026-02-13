@@ -2,9 +2,9 @@ import React, { Suspense, useEffect, useState } from "react";
 import NavMenu from "../../Components/Navbar/NavMenu";
 import Footer from "../../Components/Footer/Footer";
 import { useLoaderData } from "react-router";
-import { getStoredBook } from "../../Utility/addToDB";
+import { getStoredBook, removeFromStoredDB } from "../../Utility/addToDB";
 import LSAppList from "./LSAppList";
-import { HiH1 } from "react-icons/hi2";
+import { toast } from "react-toastify";
 
 const InstallApps = () => {
   const data = useLoaderData();
@@ -19,6 +19,13 @@ const InstallApps = () => {
     setInsAppList(Appslist);
   }, []);
 
+  const handleUninstall = (id) => {
+    removeFromStoredDB(id);
+    const remainingApps = InsAppList.filter((app) => app.id != id);
+    setInsAppList(remainingApps);
+    toast("App Uninstalled Successfully!");
+  };
+
   return (
     <div>
       <NavMenu></NavMenu>
@@ -26,6 +33,7 @@ const InstallApps = () => {
         <LSAppList
           InsAppList={InsAppList}
           setInsAppList={setInsAppList}
+          handleUninstall={handleUninstall}
         ></LSAppList>
       </Suspense>
       <Footer></Footer>

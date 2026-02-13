@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import SingleInsAppData from "./SingleInsAppData";
 import { IoIosArrowDown } from "react-icons/io";
 
-const LSAppList = ({ InsAppList, setInsAppList }) => {
+const LSAppList = ({ InsAppList, setInsAppList, handleUninstall }) => {
   const [Sort, SetSort] = useState("");
 
   const handleSort = (type) => {
@@ -59,6 +59,7 @@ const LSAppList = ({ InsAppList, setInsAppList }) => {
             <SingleInsAppData
               key={SinInstallApps.id}
               SinInstallApps={SinInstallApps}
+              handleUninstall={handleUninstall}
             ></SingleInsAppData>
           ))}
         </div>
