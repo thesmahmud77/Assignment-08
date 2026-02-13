@@ -9,6 +9,7 @@ import About from "../About/About";
 import ProudctDetails from "../ProudctDetails/ProudctDetails";
 import SingleHomeData from "../Home/SingleHomeData/SingleHomeData";
 import Apps from "../Apps_Page/Apps";
+import InstallApps from "../InstallApps/InstallApps";
 
 export const router = createBrowserRouter([
   {
@@ -33,6 +34,11 @@ export const router = createBrowserRouter([
     path: "/Apps",
     Component: Apps,
     errorElement: <Error></Error>,
+    loader: () => fetch("/Data20.json"),
+  },
+  {
+    path: "/installation",
+    Component: InstallApps,
     loader: () => fetch("/Data20.json"),
   },
 ]);

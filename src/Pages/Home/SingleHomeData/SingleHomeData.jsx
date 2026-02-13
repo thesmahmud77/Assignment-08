@@ -5,7 +5,8 @@ import Footer from "../../../Components/Footer/Footer";
 import { FaDownload } from "react-icons/fa6";
 import { FaStar } from "react-icons/fa6";
 import { BiSolidLike } from "react-icons/bi";
-import Rating from "./Rating";
+import { addToStoredDB } from "../../../Utility/addToDB";
+import { ToastContainer, toast } from "react-toastify";
 
 const SingleHomeData = () => {
   const HALoader = useLoaderData();
@@ -15,6 +16,11 @@ const SingleHomeData = () => {
   console.log(SingleHFilter);
   const { image, companyName, downloads, ratings, longDescription } =
     SingleHFilter;
+
+  const HandleInstallApps = (id) => {
+    addToStoredDB(id);
+  };
+
   return (
     <div>
       <NavMenu></NavMenu>
@@ -47,13 +53,16 @@ const SingleHomeData = () => {
                 <h1 className="card-title font-bold text-2xl">{downloads}</h1>
               </div>
             </div>
-            <button className="bg-[#632EE3] w-50 h-10 rounded-[5px] btn btn-primary mt-5">
+            <button
+              onClick={() => HandleInstallApps(id)}
+              className="bg-[#632EE3] w-50 h-10 rounded-[5px] btn btn-primary mt-5"
+            >
               Install Now
             </button>
           </div>
         </div>
       </div>
-      <div className="flex flex-col gap-4 w-full mt-20 mb-20">
+      <div className=" SinglePageCart flex flex-col gap-4 w-full mt-20 mb-20">
         {ratings.map((rating, index) => {
           const percentage = (rating.count / 6000) * 100;
 
@@ -76,6 +85,7 @@ const SingleHomeData = () => {
         <p>{longDescription}</p>
       </div>
       <Footer></Footer>
+      <ToastContainer />
     </div>
   );
 };

@@ -8,9 +8,9 @@ import navImage from "../../assets/logo.png";
 const NavMenu = () => {
   return (
     <div className="flex items-center justify-between gap-5 bg-white">
-      <div>
+      <div className="text-black">
         <Link
-          className="font-bold text-3xl text-[#632EE3] flex items-center justify-between gap-2"
+          className="font-bold text-3xl text-[#632EE3] flex items-center justify-between gap-2 text-black"
           to={"/"}
         >
           <img width={40} src={navImage} alt="" />
@@ -20,14 +20,18 @@ const NavMenu = () => {
       <div className="NavMidlePart">
         <NavLink to={"/"}>Home</NavLink>
         <NavLink to={"/Apps"}>Apps</NavLink>
-        <NavLink to={"/Installation"}>Installation</NavLink>
+        <NavLink to={"/installation"}>Installation</NavLink>
       </div>
-      <div>
-        <a href="https://github.com/thesmahmud77/Assignment-08" target="_blank">
-          <button className="bg-[#632EE3] flex items-center justify-between gap-5 p-5 py-3 rounded-xl text-white btn btn-soft btn-primary py-5 px-6 gap-3">
-            <FaGithubSquare className="h-50" />
-            Contribute
-          </button>
+
+      <div></div>
+      <div className="flex items-center">
+        <a
+          href="https://github.com/themahmud77/Assignment-08"
+          target="_blank"
+          className="flex items-center gap-2 bg-[#7C3AED] text-white px-6 py-2 rounded-lg font-medium "
+        >
+          <FaGithub />
+          Contribute
         </a>
       </div>
     </div>

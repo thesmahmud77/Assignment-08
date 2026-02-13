@@ -7,10 +7,14 @@ const SingleHData = ({ HomeData }) => {
   //   console.log(HomeData);
   const { id, image, companyName } = HomeData;
   return (
-    <div className="card bg-base-100 w-96 shadow-sm">
+    <div className="card bg-white shadow-xl border border-Black-600 ">
       <Link to={`/SingleHomeData/${id}`}>
-        <figure className="px-10 pt-10 h-[200px]">
-          <img src={image} alt="Shoes" className="rounded-xl" />
+        <figure className="h-50 overflow-hidden relative">
+          <img
+            src={image}
+            alt="Shoes"
+            className="rounded-xl w-full h-40 object-cover"
+          />
         </figure>
         <div className="card-body items-center text-center">
           <h2 className="card-title">{companyName}</h2>

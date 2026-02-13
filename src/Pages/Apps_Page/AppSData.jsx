@@ -9,8 +9,12 @@ const AppSData = ({ SingleAppsData }) => {
   return (
     <div className="bg-white p-3 rounded-xl">
       <Link to={`/SingleHomeData/${id}`}>
-        <figure className="text-center">
-          <img className="max-h-50 w-full rounded-xl" src={image} alt="" />
+        <figure className="h-48 overflow-hidden">
+          <img
+            className="rounded-xl object-cover h-full w-full"
+            src={image}
+            alt=""
+          />
         </figure>
         <div className="card-body items-center text-center mt-2">
           <h2 className="card-title">{companyName}</h2>
