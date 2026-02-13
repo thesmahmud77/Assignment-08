@@ -1,10 +1,11 @@
 [
   {
+    "id": 1,
     "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
     "title": "SocialConnect",
     "companyName": "Nexus Media Group",
-    "id": 1,
     "description": "Stay connected with friends and family seamlessly.",
+    "longDescription": "SocialConnect is a revolutionary social networking application designed to bridge the gap between people across the globe. In an era where digital presence is as vital as physical interaction, SocialConnect provides a comprehensive suite of features including high-definition video conferencing, instant multimedia messaging, and personalized activity feeds. The app's unique algorithm ensures that you see the content that matters most to you, filtering out noise and focusing on genuine connections. It supports end-to-end encryption for all private chats, ensuring that your personal data remains secure. Furthermore, the platform integrates seamlessly with other productivity tools, making it not just a social app but a lifestyle companion. Whether you're sharing a life milestone through 'Stories' or joining a community group of like-minded hobbyists, SocialConnect makes every interaction feel personal and immediate. The UI is crafted for simplicity, allowing users of all ages to navigate effortlessly. With over a million downloads, it continues to set benchmarks in the world of social media by prioritizing user privacy and fostering meaningful digital relationships. Beyond just networking, it acts as a digital diary where users can archive their memories and look back at them with the 'On This Day' feature. It also provides a robust business mode for entrepreneurs to reach their audience without being intrusive. SocialConnect is committed to a clean, ad-light experience, making sure that your screen isn't cluttered with unnecessary distractions. By focusing on quality over quantity, it encourages users to spend their digital time more wisely and productively.",
     "size": 45,
     "reviews": 12500,
     "ratingAvg": 4.5,
@@ -18,11 +19,12 @@
     ]
   },
   {
+    "id": 2,
     "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400",
     "title": "FinTrack Pro",
     "companyName": "Smart Wealth Labs",
-    "id": 2,
     "description": "Track your expenses and manage your budget easily.",
+    "longDescription": "FinTrack Pro is the ultimate financial management assistant designed for individuals and small business owners alike. Managing finances can often be overwhelming, but this app simplifies the process by automating expense tracking and providing insightful analytics. Users can link their bank accounts for real-time monitoring of transactions, or manually enter expenses with categorized tags like 'Groceries', 'Utilities', and 'Entertainment'. One of its standout features is the 'Budget Planner', which helps you set monthly limits and sends alerts when you're approaching your spending ceiling. The app also generates detailed weekly and monthly reports using intuitive graphs and charts, allowing you to visualize where your money is going. Security is a top priority for Smart Wealth Labs; therefore, FinTrack Pro employs banking-grade encryption and biometric authentication to protect sensitive financial data. Additionally, it offers investment tracking and debt payoff calculators to help you reach your long-term financial goals faster. By turning complex data into actionable insights, FinTrack Pro empowers you to take full control of your financial destiny. It also features a tax-preparation assistant that helps you organize receipts and deductions throughout the year, making tax season a breeze. The app’s community section allows users to anonymously compare their saving habits with others in similar demographics, providing a healthy benchmark for progress. Whether you are a student learning to save or a professional managing a portfolio, FinTrack Pro is the financial compass you need to navigate through the complexities of modern-day economics.",
     "size": 18,
     "reviews": 8900,
     "ratingAvg": 4.8,
@@ -36,11 +38,12 @@
     ]
   },
   {
+    "id": 3,
     "image": "https://images.unsplash.com/photo-1546776310-eef45dd6d63c?w=400",
     "title": "Healthify Me",
     "companyName": "Vitality Tech",
-    "id": 3,
     "description": "Your personal assistant for diet and workout routines.",
+    "longDescription": "Healthify Me is a holistic health and wellness platform that brings a personal trainer and nutritionist directly to your smartphone. Understanding that health is a combination of diet, exercise, and mental well-being, the app offers tailored plans based on individual body types and fitness goals. Whether you want to lose weight, gain muscle, or maintain a healthy lifestyle, Healthify Me provides a massive database of over 5,000 food items to track your calorie intake accurately. The workout section features high-quality video tutorials led by professional trainers, ranging from high-intensity interval training (HIIT) to calming yoga sessions. A unique feature of this app is its AI-powered 'Health Coach' which analyzes your daily patterns and suggests improvements in real-time. It also tracks your sleep cycles and water intake, ensuring a well-rounded approach to health. The community aspect allows users to participate in challenges and share their progress, providing the motivation needed to stay on track. With Vitality Tech’s commitment to science-based health solutions, Healthify Me is more than just an app; it's a partner in your journey toward a better and stronger self. The platform also integrates with popular wearable devices, syncing your steps and heart rate data to provide a 360-degree view of your health. It features a specialized 'Meditation Corner' to help manage stress and improve focus, recognizing that mental health is just as important as physical fitness. For those with specific medical conditions like diabetes or hypertension, Healthify Me offers medically-backed meal plans to help manage their health more effectively through lifestyle changes. It is truly a complete ecosystem for anyone looking to transform their life for the better.",
     "size": 32,
     "reviews": 15400,
     "ratingAvg": 4.2,
@@ -54,11 +57,12 @@
     ]
   },
   {
+    "id": 4,
     "image": "https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?w=400",
     "title": "SkyRunner",
     "companyName": "Cloud Games",
-    "id": 4,
     "description": "An endless running game with amazing graphics.",
+    "longDescription": "SkyRunner is an adrenaline-pumping endless runner game that takes mobile gaming to new heights. Set in a futuristic cyberpunk world, players must navigate through gravity-defying tracks, dodging obstacles and outrunning high-tech security drones. The game features stunning 3D graphics and a dynamic soundscape that adapts to the speed of the gameplay. What sets SkyRunner apart is its innovative movement system, which allows players to wall-run, slide under laser beams, and perform aerial stunts to collect power-ups. As you progress, you can unlock different characters, each with unique abilities and customizable gear. The competitive leaderboard system allows you to challenge friends and players worldwide, adding a layer of social excitement. Daily missions and special events keep the gameplay fresh and rewarding. Cloud Games has optimized the engine to ensure smooth performance even on mid-range devices, providing a seamless experience for all. Dive into the neon-lit world of SkyRunner and see how long you can survive the ultimate chase. The game also includes a 'Zen Mode' for those who want to enjoy the scenery without the pressure of high scores, and a 'Hardcore Mode' for the most dedicated gamers. Its progressive difficulty ensures that the game remains challenging even after hundreds of hours of play. The developer regularly releases new 'Biomes' or environments, ranging from floating cities to subterranean tunnels, keeping the visual experience varied. With a deep story-driven campaign that unfolds as you collect memory shards, SkyRunner is more than just a reflex test—it's an immersive science-fiction adventure in the palm of your hand.",
     "size": 120,
     "reviews": 45000,
     "ratingAvg": 4.6,
@@ -72,11 +76,12 @@
     ]
   },
   {
+    "id": 5,
     "image": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=400",
     "title": "QuickEdit",
     "companyName": "Pixel Studio",
-    "id": 5,
     "description": "Professional photo editing tool at your fingertips.",
+    "longDescription": "QuickEdit is a powerful and versatile photo editing application designed for both casual social media users and professional photographers. In today's visual-centric world, having the right tools to enhance your images is crucial. QuickEdit offers a wide array of features including advanced color grading, selective adjustment tools, and a massive library of high-quality filters. Unlike many other mobile editors, QuickEdit supports RAW file formats, allowing professionals to maintain maximum image quality during the editing process. Its intuitive interface features 'One-Tap' enhancements for quick fixes, while also providing deep-dive tools for manual adjustments like curves, HSL, and noise reduction. The app also includes a creative suite for adding text, frames, and overlays, making it a one-stop-shop for content creation. Pixel Studio’s proprietary AI engine helps in removing unwanted objects from backgrounds with surprising precision. Whether you are retouching a portrait or enhancing a landscape, QuickEdit provides the professional-grade tools you need to make your photos truly stand out. Furthermore, it features a built-in portfolio manager that allows you to organize your edits into collections and share them directly to a global community for feedback. The app's 'History' feature allows for non-destructive editing, meaning you can always go back and tweak a single change without starting over. With cloud sync capabilities, you can start editing on your phone and finish on your tablet or desktop seamlessly. QuickEdit is continuously updated with new assets like stickers, fonts, and light leak effects, ensuring that you always have access to the latest trends in visual storytelling.",
     "size": 55,
     "reviews": 3200,
     "ratingAvg": 4.4,
@@ -90,11 +95,12 @@
     ]
   },
   {
+    "id": 6,
     "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400",
     "title": "StudyBuddy",
     "companyName": "EduTech Solutions",
-    "id": 6,
     "description": "Collaborate with classmates and organize your notes.",
+    "longDescription": "StudyBuddy is a comprehensive educational assistant designed to streamline the academic lives of students from high school to university level. The app serves as a centralized hub for all academic needs, featuring a smart calendar for tracking assignment deadlines, exam dates, and lecture schedules. One of its core features is the collaborative workspace, where students can create study groups, share digital notes, and discuss complex topics through built-in voice and text chat. StudyBuddy also includes a document scanner that converts physical handouts into searchable PDFs using OCR technology. To enhance focus, the app offers a 'Study Mode' based on the Pomodoro technique, which blocks distracting notifications and tracks study hours. Its integration with cloud storage services ensures that your notes are accessible across all devices. EduTech Solutions has also included a peer-to-peer tutoring marketplace within the app, allowing students to seek help from experts in specific subjects. By combining organization, collaboration, and resources, StudyBuddy empowers students to achieve academic excellence efficiently. It also features a massive library of user-generated study guides and summaries, making it easier to review for tests. The app's 'Flashcard' system uses spaced repetition to help students memorize key concepts more effectively. Additionally, it offers integration with university portals to automatically pull in grades and course materials. StudyBuddy's goal is to reduce the stress of academic life by providing a structured, supportive environment where students can thrive together.",
     "size": 22,
     "reviews": 5600,
     "ratingAvg": 4.7,
@@ -108,11 +114,12 @@
     ]
   },
   {
+    "id": 7,
     "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
     "title": "SoundStream",
     "companyName": "Audio Max",
-    "id": 7,
     "description": "High-quality music streaming with offline support.",
+    "longDescription": "SoundStream is a premium audio streaming platform that caters to audiophiles and casual listeners who demand the highest sound quality. With a library of over 80 million tracks, the app covers every genre imaginable, from classical masterpieces to the latest indie hits. SoundStream’s lossless audio technology ensures that you hear every detail of the music exactly as the artist intended. The 'Smart Radio' feature uses machine learning to understand your musical taste and curated personalized playlists that evolve with your listening habits. For users on the move, the app offers a robust offline mode, allowing you to download entire albums and playlists for listening without an internet connection. It also includes an integrated lyrics feature for karaoke nights and deep-dives into artist biographies. Audio Max has partnered with top podcasters to provide an extensive range of exclusive spoken-word content as well. Its sleek, dark-themed interface is designed for comfort during long listening sessions, making SoundStream the definitive choice for anyone passionate about sound. Beyond just music, it offers 'Soundscapes' for focus and sleep, including white noise and nature sounds. The app also features a 'High-Res Audio' mode for users with specialized hardware, providing a studio-quality experience. SoundStream's social sharing tools allow you to host virtual listening parties where friends can sync their playback and chat in real-time. It also provides a direct-to-artist tipping feature, ensuring that your favorite creators receive the support they deserve. With its commitment to audio excellence and a user-first philosophy, SoundStream is setting a new standard for how we consume audio in the digital age.",
     "size": 38,
     "reviews": 21000,
     "ratingAvg": 4.3,
@@ -126,11 +133,12 @@
     ]
   },
   {
+    "id": 8,
     "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400",
     "title": "CodeMaster",
     "companyName": "DevTools Inc.",
-    "id": 8,
     "description": "Learn programming languages on the go.",
+    "longDescription": "CodeMaster is an innovative mobile learning platform that makes mastering computer programming accessible, engaging, and fun. Whether you are a total beginner or an experienced developer looking to learn a new language, CodeMaster offers structured courses in Python, Java, C++, Swift, and many more. The app’s curriculum is built on 'Micro-Learning' principles, breaking down complex coding concepts into bite-sized interactive lessons that you can complete in minutes. One of its most powerful features is the built-in mobile IDE, which allows you to write, compile, and run code directly on your phone. CodeMaster also features a 'Coding Playground' where you can experiment with snippets and share them with a global community of developers for feedback. Gamified elements like daily streaks, experience points, and achievement badges keep users motivated to continue their learning journey. DevTools Inc. also provides a certification path for advanced courses, helping users build a portfolio for their career advancement. With its combination of theory and hands-on practice, CodeMaster is the perfect tool for the next generation of software engineers. The app also includes a series of 'Project-Based' lessons where you build real-world applications like a weather app or a simple calculator as you learn. Its AI tutor is available 24/7 to help you debug your code and explain errors in simple terms. CodeMaster also connects users with job opportunities by showcasing their skills to recruiters through its talent portal. Whether you're interested in web development, data science, or mobile app creation, CodeMaster provides the comprehensive resources needed to succeed in the tech industry.",
     "size": 28,
     "reviews": 7400,
     "ratingAvg": 4.9,
@@ -144,29 +152,145 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=400",
-    "title": "TravelWise",
-    "companyName": "Global Explorers",
     "id": 9,
-    "description": "Discover new destinations and plan your trips efficiently.",
-    "size": 42,
-    "reviews": 6800,
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=400",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust Apps",
+    "description": "Your ultimate travel companion for seamless trips.",
+    "longDescription": "TravelBuddy is a high-performance travel management application designed to make every journey memorable and stress-free. Whether you are planning a solo backpacking trip across Europe or a family vacation to a tropical paradise, TravelBuddy provides all the tools you need in one place. The app features an intelligent itinerary builder that automatically organizes your flight confirmations, hotel bookings, and restaurant reservations. Its real-time flight tracker keeps you updated on delays, gate changes, and baggage claim information. One of the most unique aspects of TravelBuddy is its 'Local Gems' feature, which uses crowd-sourced data to recommend off-the-beaten-path attractions that you won't find in traditional guidebooks. The app also includes an offline translator that supports over 50 languages, helping you navigate foreign lands with confidence. With its integrated expense tracker, you can manage your travel budget in multiple currencies effortlessly. Wanderlust Apps has also prioritized sustainability by including a 'Green Travel' guide that suggests eco-friendly transport and accommodation options. The social aspect of the app allows you to connect with other travelers in your area, share tips, and even find a travel partner for specific legs of your trip. TravelBuddy's offline maps ensure that you never get lost, even without a data connection. It also features a 'Safety Hub' with emergency contact numbers for every country and real-time alerts about local disturbances. With its user-friendly design and comprehensive feature set, TravelBuddy is the only app you'll ever need to explore the world with ease and excitement. It also offers a 'Photo Journal' feature to document your travels and share them with your loved ones back home in a beautiful, interactive format.",
+    "size": 62,
+    "reviews": 9800,
     "ratingAvg": 4.6,
     "downloads": 750000,
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 1850 },
-      { "name": "5 star", "count": 4000 }
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 6150 }
     ]
   },
   {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=400",
+    "title": "EcoTrack",
+    "companyName": "GreenFuture Labs",
+    "description": "Measure and reduce your carbon footprint effectively.",
+    "longDescription": "EcoTrack is a powerful tool designed to help individuals and organizations take meaningful action against climate change. In an age where environmental sustainability is more important than ever, EcoTrack provides a scientific way to measure, monitor, and reduce your carbon footprint. The app begins by asking a series of lifestyle questions to calculate your baseline impact on the planet. From there, it offers personalized 'Green Challenges' such as reducing meat consumption, using public transport, or switching to renewable energy sources. Its real-time tracker allows you to see the immediate impact of your choices on the environment. EcoTrack also features a barcode scanner that identifies the environmental rating of consumer products, helping you make more ethical shopping decisions. GreenFuture Labs has collaborated with climate scientists to ensure that all data and recommendations are backed by the latest research. The app also includes a community forum where users can share tips on sustainable living and participate in local environmental projects. For businesses, EcoTrack offers a corporate version to track and report their sustainability goals. It also provides a platform to purchase verified carbon offsets for those unavoidable emissions. The app's 'Educational Hub' is filled with articles and documentaries about environmental conservation, fostering a deeper understanding of our planet's needs. With its gamified approach, EcoTrack makes saving the earth a rewarding and engaging experience. Its goal is to create a global movement of environmentally conscious citizens who are empowered to make a difference. Whether you're a student or a CEO, EcoTrack gives you the data and motivation needed to lead a more sustainable life. The app also features a 'Impact Map' where you can see the collective carbon reduction of the entire EcoTrack community in real-time.",
+    "size": 25,
+    "reviews": 4500,
+    "ratingAvg": 4.8,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400",
+    "title": "ZenMind",
+    "companyName": "Serenity Soft",
+    "description": "Guided meditation and sleep stories for mental peace.",
+    "longDescription": "ZenMind is a sanctuary for your mental health, offering a wide range of guided meditations, breathing exercises, and sleep stories designed to reduce stress and improve focus. In our fast-paced world, finding a moment of peace can be difficult, but ZenMind makes it easy by providing short, effective sessions that fit into any schedule. The app features content curated by world-renowned mindfulness experts, covering topics such as anxiety relief, emotional resilience, and mindful productivity. Its 'Sleep Stories' are narrated by calming voices and designed to help you drift off into a deep, restful slumber. For those new to meditation, ZenMind offers a '10-Day Foundations' course that teaches the basics of mindfulness in a simple, step-by-step manner. The app's 'Mood Tracker' allows you to record your emotional state throughout the day and provides personalized recommendations based on your feelings. Serenity Soft has also included a specialized 'Kids' section' with meditation stories designed to help children develop emotional intelligence and focus. ZenMind's ambient soundscapes, including rainfall, forest sounds, and ocean waves, provide the perfect background for work or relaxation. Its integration with health apps allows you to track your 'Mindful Minutes' and see the positive impact of your practice over time. The community feature allows you to join group meditation sessions and connect with a global network of like-minded individuals. ZenMind is more than just an app; it is a lifestyle tool that helps you cultivate a more peaceful, focused, and resilient mind. Whether you have two minutes or an hour, ZenMind provides the perfect escape from the noise of the modern world. It also offers offline support, so you can practice your mindfulness anywhere, even without an internet connection.",
+    "size": 40,
+    "reviews": 15000,
+    "ratingAvg": 4.9,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400",
+    "title": "JobQuest",
+    "companyName": "CareerPath Inc.",
+    "description": "Find your dream job with AI-powered matching.",
+    "longDescription": "JobQuest is a cutting-edge career development platform that uses artificial intelligence to match job seekers with their ideal roles. Unlike traditional job boards, JobQuest analyzes your skills, experience, and career goals to provide highly personalized job recommendations. The app's 'Resume Builder' helps you create a professional, ATS-friendly resume in minutes, while its AI 'Cover Letter Generator' crafts compelling applications tailored to specific job descriptions. One of its standout features is the 'Interview Prep' module, which provides mock interview sessions using AI-driven voice analysis to give you feedback on your tone and content. JobQuest also features a comprehensive salary insights tool, helping you negotiate your worth with confidence. CareerPath Inc. has partnered with top companies across various industries to ensure a constant stream of high-quality job postings. The app's 'Skill Gap Analysis' identifies the areas where you need improvement and recommends online courses to help you stay competitive. Its 'Networking Hub' allows you to connect with recruiters and industry professionals directly through the app. For those looking to switch careers, JobQuest provides a 'Career Transition' guide that maps out the steps needed to move into a new field. The app's user-friendly interface makes it easy to track your applications and receive real-time updates on your status. With its focus on empowerment and transparency, JobQuest is revolutionizing the way we find work. Whether you are a fresh graduate or a seasoned professional, JobQuest gives you the tools and insights needed to navigate the modern job market successfully. It also features a 'Workplace Insights' section where you can read anonymous reviews about company culture and employee satisfaction.",
+    "size": 35,
+    "reviews": 12000,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?w=400",
+    "title": "KitchenPro",
+    "companyName": "Culinary Labs",
+    "description": "Your ultimate digital cookbook and meal planner.",
+    "longDescription": "KitchenPro is a comprehensive culinary application designed to elevate your home cooking experience. Whether you are a novice cook or a seasoned chef, KitchenPro provides a massive library of over 50,000 recipes from around the world. The app features a 'Smart Meal Planner' that creates weekly menus based on your dietary preferences, allergies, and nutritional goals. One of its most innovative features is the 'Pantry Scanner,' which uses your phone's camera to identify ingredients you already have and suggests recipes you can make with them. KitchenPro also includes high-definition video tutorials for complex cooking techniques, ensuring that you can master any dish with ease. Its integrated grocery list automatically organizes items by aisle, making your shopping trips more efficient. Culinary Labs has also included a social feature where you can share your own recipes and photos with a global community of food lovers. The app's 'Nutrition Tracker' provides detailed breakdowns of calories, macros, and vitamins for every meal. For those with busy lifestyles, KitchenPro offers a 'Quick & Easy' section with delicious meals that can be prepared in under 30 minutes. The app also features a 'Wine Pairing' guide to help you find the perfect drink for your dinner. With its beautiful photography and user-friendly design, KitchenPro makes cooking a fun and rewarding experience. Its goal is to inspire people to eat healthier and more diverse meals while reducing food waste. Whether you're planning a romantic dinner or a family feast, KitchenPro is the perfect assistant for all your kitchen adventures. It also offers a 'Baking Mode' with specialized timers and temperature guides for perfect results every time.",
+    "size": 52,
+    "reviews": 8500,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=400",
+    "title": "FocusFlow",
+    "companyName": "Peak Productivity",
+    "description": "Master your time with our advanced productivity tool.",
+    "longDescription": "FocusFlow is an advanced productivity and time management application designed to help you reclaim your focus in a world of constant distractions. Built on the principles of deep work and the Pomodoro technique, FocusFlow provides a structured environment where you can tackle your most important tasks with ease. The app features a customizable timer that allows you to set work intervals and break periods according to your personal rhythm. One of its most powerful tools is the 'Distraction Blocker,' which silences social media notifications and blacklists unproductive websites during your focus sessions. FocusFlow also includes a 'Task Manager' that allows you to prioritize your daily goals and track your progress with detailed productivity analytics. Peak Productivity has designed the app with a clean, minimalist interface to minimize cognitive load. Its 'Ambient Noise' library features high-quality sounds like binaural beats, coffee shop hum, and rainfall to help you enter a state of flow quickly. The app's 'Review & Reflect' feature encourages you to evaluate your day and plan for tomorrow, fostering a habit of continuous improvement. For teams, FocusFlow offers a collaborative mode where you can sync your focus sessions with colleagues and see collective productivity levels. The app's 'Achievement System' gamifies your productivity, rewarding you with badges and ranks as you reach your goals. Whether you are a student, a creative professional, or an executive, FocusFlow gives you the tools needed to maximize your output and reduce stress. By helping you manage your most valuable resource—time—FocusFlow empowers you to achieve more with less effort. It also features a 'Sync Across Devices' capability, ensuring your tasks and focus data are always with you.",
+    "size": 30,
+    "reviews": 11000,
+    "ratingAvg": 4.6,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2250 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=400",
+    "title": "CryptoPulse",
+    "companyName": "BlockTech Solutions",
+    "description": "Real-time cryptocurrency tracking and news alerts.",
+    "longDescription": "CryptoPulse is the definitive application for anyone interested in the fast-moving world of cryptocurrencies and blockchain technology. Whether you are a seasoned trader or a curious beginner, CryptoPulse provides real-time data, expert analysis, and the latest news for over 10,000 digital assets. The app features a high-performance 'Portfolio Tracker' that allows you to monitor your investments across multiple exchanges and wallets in one place. Its 'Alert System' sends instant notifications about price movements, volume spikes, and breaking news, ensuring that you never miss a market opportunity. One of its most unique features is the 'Sentiment Analysis' tool, which uses AI to analyze social media trends and news articles to gauge the market's mood. BlockTech Solutions has also included a comprehensive 'Educational Academy' with courses on blockchain basics, technical analysis, and security best practices. The app's 'Price Prediction' models, powered by machine learning, provide insights into potential future trends. CryptoPulse also features a decentralized finance (DeFi) hub, where you can explore yield farming opportunities and track gas prices. The app's user-friendly interface is fully customizable, allowing you to set up your own dashboard with the charts and coins you care about most. Security is a top priority, and the app uses biometric authentication and encrypted cloud sync to protect your data. With its focus on transparency and accuracy, CryptoPulse is the only tool you need to navigate the complexities of the crypto market. It also features a 'Community Chat' where you can discuss market trends with other enthusiasts in a safe and moderated environment.",
+    "size": 48,
+    "reviews": 6500,
+    "ratingAvg": 4.4,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 16,
     "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
     "title": "ZenYoga",
     "companyName": "Inner Peace Apps",
-    "id": 10,
     "description": "Daily yoga and meditation sessions for mental health.",
+    "longDescription": "ZenYoga is a sanctuary for the mind and body, providing a digital space where users can find balance in an increasingly chaotic world. Developed by Inner Peace Apps, this platform goes beyond simple exercise by integrating ancient yogic philosophy with modern psychological practices. The app offers a vast library of high-definition video classes, ranging from vigorous Vinyasa flows to restorative Yin yoga, catering to all levels from complete beginners to advanced practitioners. Each session is led by world-class instructors who provide clear, anatomical guidance to ensure safety and effectiveness. ZenYoga’s 'Personalized Path' feature uses a daily mood check-in to suggest practices that align with your current state—whether you need to energize your body for a long day or calm your mind before sleep. The meditation section is equally robust, featuring guided sessions for stress reduction, focus, and emotional resilience. A unique feature of ZenYoga is its 'Breathwork Lab,' where users can learn specific pranayama techniques to control their nervous system. The app also includes a 3D pose library, allowing you to rotate and view correct alignments from every angle, which is a game-changer for home practice. To foster a sense of community, ZenYoga hosts live virtual retreats and global 'Sync-Meditations' where thousands of users meditate together at the same time. The integrated journal allows you to track not just your physical progress, but also your emotional journey and insights gained during practice. ZenYoga also connects with your wearable devices to monitor your heart rate variability (HRV), providing scientific proof of your declining stress levels over time. With its minimalist design and soothing soundscapes, the app itself is an exercise in mindfulness. Whether you have five minutes for a quick stretch or an hour for a deep meditative flow, ZenYoga provides the tools to cultivate inner peace and physical vitality. It is more than just a fitness app; it is a lifestyle companion dedicated to your holistic well-being.",
     "size": 35,
     "reviews": 4200,
     "ratingAvg": 4.9,
@@ -180,29 +304,12 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=400",
-    "title": "TaskFlow",
-    "companyName": "Productivity Pros",
-    "id": 11,
-    "description": "Organize your daily tasks and boost your productivity.",
-    "size": 15,
-    "reviews": 12000,
-    "ratingAvg": 4.7,
-    "downloads": 900000,
-    "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 1000 },
-      { "name": "4 star", "count": 3500 },
-      { "name": "5 star", "count": 7000 }
-    ]
-  },
-  {
+    "id": 17,
     "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400",
     "title": "DataViz Pro",
     "companyName": "Analytics Hub",
-    "id": 12,
     "description": "Transform raw data into beautiful visual charts.",
+    "longDescription": "DataViz Pro is a sophisticated data visualization tool designed for professionals who need to communicate complex information clearly and effectively. In an age of 'Big Data,' being able to visualize trends and insights is a critical skill, and DataViz Pro makes this process intuitive and accessible. The app supports a wide range of data sources, allowing you to import data from spreadsheets, SQL databases, and cloud services seamlessly. With its 'Drag-and-Drop' interface, you can create stunning bar charts, heat maps, scatter plots, and interactive dashboards in minutes. One of its standout features is the 'AI-Insights' engine, which automatically identifies significant trends and anomalies in your data, providing you with a head start on your analysis. Analytics Hub has prioritized collaboration, allowing you to share your visualizations with team members and clients through secure, interactive web links. The app also includes a series of professional templates tailored for different industries, such as finance, marketing, and healthcare. For those who want more control, DataViz Pro offers advanced customization options, including custom color palettes, font styles, and interactive elements. Its 'Storytelling Mode' allows you to create presentations where your data comes to life with smooth transitions and animations. The app's mobile-first design ensures that your charts look great on any screen, from a smartphone to a large conference room display. Whether you are preparing a quarterly report or building a real-time monitoring system, DataViz Pro gives you the tools needed to turn data into a powerful narrative. It also features a 'Data Cleaning' suite to help you handle missing values and outliers before you begin your visualization journey.",
     "size": 60,
     "reviews": 2500,
     "ratingAvg": 4.3,
@@ -216,11 +323,12 @@
     ]
   },
   {
+    "id": 18,
     "image": "https://images.unsplash.com/photo-1526367790999-01507044397e?w=400",
     "title": "FoodieExpress",
     "companyName": "Cuisine Network",
-    "id": 13,
     "description": "Order your favorite food from local restaurants.",
+    "longDescription": "FoodieExpress is a high-speed food delivery and restaurant discovery application that connects you with the best culinary experiences in your city. Whether you're craving authentic street food or a five-course gourmet meal, FoodieExpress makes it easy to explore, order, and track your food in real-time. The app features a 'Smart Discovery' engine that learns your taste preferences and recommends restaurants based on your order history and ratings. Its 'Live Tracking' system provides minute-by-minute updates on your order's progress, from the kitchen to your doorstep. One of its unique features is the 'Group Order' function, which allows you and your friends to add items to a shared basket and split the bill seamlessly within the app. Cuisine Network has also implemented a 'Sustainable Delivery' initiative, offering carbon-neutral delivery options and encouraging restaurants to use eco-friendly packaging. The app's 'Loyalty Program' rewards frequent users with exclusive discounts, free delivery, and early access to new restaurant openings. For those who enjoy dining out, FoodieExpress offers a 'Table Reservation' service with real-time availability. Its 'Photo-Driven Menus' allow you to see exactly what you're ordering, with high-quality images for every dish. The app also features a comprehensive review system where you can share your dining experiences and photos with a community of fellow foodies. With its 24/7 customer support and secure payment options, FoodieExpress ensures a smooth and satisfying experience every time. Whether it's a quick lunch at the office or a late-night snack at home, FoodieExpress is your ultimate gateway to a world of delicious flavors.",
     "size": 40,
     "reviews": 34000,
     "ratingAvg": 4.4,
@@ -234,29 +342,12 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400",
-    "title": "DevTerminal",
-    "companyName": "OpenSource Lab",
-    "id": 14,
-    "description": "A powerful mobile terminal for developers.",
-    "size": 20,
-    "reviews": 1800,
-    "ratingAvg": 4.8,
-    "downloads": 100000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 1200 }
-    ]
-  },
-  {
+    "id": 19,
     "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400",
     "title": "SecureVault",
     "companyName": "Cyber Shield",
-    "id": 15,
     "description": "Keep your passwords and private files safe.",
+    "longDescription": "SecureVault is a state-of-the-art security application designed to protect your digital life from unauthorized access and cyber threats. In an age where personal data is a prime target, SecureVault provides a 'Zero-Knowledge' environment where only you have access to your most sensitive information. The app features a powerful 'Password Manager' that generates complex passwords and stores them securely, allowing you to log in to your accounts with a single tap. Its 'Private File Vault' uses military-grade AES-256 encryption to safeguard your photos, videos, and documents. One of its most advanced features is the 'Dark Web Monitor,' which continuously scans for your credentials in known data breaches and alerts you immediately if your information is at risk. Cyber Shield has also included a 'Secure Browser' that blocks trackers and malicious scripts, ensuring a private browsing experience. The app's 'Emergency Access' feature allows you to nominate a trusted person who can access your vault in case of an emergency. SecureVault also supports multi-factor authentication (MFA) and biometric login for an extra layer of security. Its 'Digital Identity' module helps you store and manage your official IDs and credit cards safely. The app's user-friendly interface makes complex security tasks simple for everyone. With its focus on privacy and user empowerment, SecureVault is the ultimate tool for anyone looking to secure their digital footprint. Whether you are protecting your financial records or your personal memories, SecureVault gives you the peace of mind that your data is always safe and under your control. The app also offers a 'Security Audit' feature that checks your existing passwords for strength and uniqueness.",
     "size": 12,
     "reviews": 9500,
     "ratingAvg": 4.9,
@@ -270,83 +361,13 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=400",
-    "title": "SciLab",
-    "companyName": "Knowledge Base",
-    "id": 16,
-    "description": "Interactive science experiments for students.",
-    "size": 85,
-    "reviews": 3100,
-    "ratingAvg": 4.5,
-    "downloads": 200000,
-    "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 350 },
-      { "name": "4 star", "count": 1000 },
-      { "name": "5 star", "count": 1500 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1593642532400-2682810df593?w=400",
-    "title": "StreamMaster",
-    "companyName": "Visionary Media",
-    "id": 17,
-    "description": "Stream 4K movies and TV shows anywhere.",
-    "size": 50,
-    "reviews": 55000,
-    "ratingAvg": 4.6,
-    "downloads": 10000000,
-    "ratings": [
-      { "name": "1 star", "count": 2500 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 7500 },
-      { "name": "4 star", "count": 12000 },
-      { "name": "5 star", "count": 30000 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
-    "title": "ChatSphere",
-    "companyName": "Global Connect",
-    "id": 18,
-    "description": "Real-time communication with end-to-end encryption.",
-    "size": 30,
-    "reviews": 12800,
-    "ratingAvg": 4.4,
-    "downloads": 1500000,
-    "ratings": [
-      { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 1400 },
-      { "name": "4 star", "count": 4000 },
-      { "name": "5 star", "count": 6000 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400",
-    "title": "NatureWalk",
-    "companyName": "Eco Trails",
-    "id": 19,
-    "description": "Identify plants and birds using your camera.",
-    "size": 65,
-    "reviews": 2100,
-    "ratingAvg": 4.7,
-    "downloads": 100000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1200 }
-    ]
-  },
-  {
+    "id": 20,
+    "id": 20,
     "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=400",
     "title": "ExamPrep",
     "companyName": "Success Academy",
-    "id": 20,
     "description": "Extensive library for competitive exam preparation.",
+    "longDescription": "ExamPrep is an all-in-one educational platform specifically designed for students preparing for competitive exams, certifications, and academic finals. Success Academy has built an extensive library of study materials, including video lectures, practice tests, and detailed notes across hundreds of subjects. The app's 'Adaptive Learning' algorithm identifies your weak areas and creates a personalized study plan to help you improve where it matters most. One of its standout features is the 'Live Mock Exam' mode, which simulates a real testing environment with timed sessions and immediate performance analysis. ExamPrep also features a 'Doubt Clearing' portal where you can ask questions and receive answers from expert educators within minutes. The app's 'Spaced Repetition' tool helps you retain information longer by prompting you to review key concepts at optimal intervals. Its 'Progress Tracker' provides deep insights into your learning journey, showing you how your scores compare with other aspirants nationwide. For those on the move, ExamPrep offers an offline mode where you can download lectures and quizzes for study without an internet connection. The app also features a 'Success Stories' section to keep you motivated and a community forum where you can discuss strategies with fellow students. Success Academy has partnered with top-tier educators to ensure that all content is accurate and up-to-date with the latest exam patterns. With its user-centric design and comprehensive resource set, ExamPrep is the ultimate tool for anyone looking to achieve their academic and professional goals. It also includes a 'Scholarship Alert' system to keep you informed about financial aid opportunities in your field of study. Whether you're aiming for medical school, a law degree, or a tech certification, ExamPrep provides the structure and support you need to succeed.",
     "size": 48,
     "reviews": 8200,
     "ratingAvg": 4.8,

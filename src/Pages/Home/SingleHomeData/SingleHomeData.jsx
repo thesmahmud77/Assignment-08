@@ -12,14 +12,15 @@ const SingleHomeData = () => {
   const HomeParams = parseInt(id);
   const SingleHFilter = HALoader.find((book) => book.id === HomeParams);
   console.log(SingleHFilter);
-  const { image, companyName, downloads, ratings } = SingleHFilter;
+  const { image, companyName, downloads, ratings, longDescription } =
+    SingleHFilter;
   return (
     <div>
       <NavMenu></NavMenu>
       <div>
         <div className="card card-side bg-base-100 shadow-sm">
           <figure>
-            <img src={image} alt="Movie" />
+            <img className="max-h-100" src={image} alt="Movie" />
           </figure>
           <div className="card-body">
             <div className="text-left">
@@ -57,68 +58,9 @@ const SingleHomeData = () => {
           ))}
         </div>
       </div>
-      <div className="Description text-left">
+      <div className="Description text-left mb-10">
         <h1 className="font-bold text-1xl">Description</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-          quia molestiae iste. Consequatur quis, vel eius laboriosam ab
-          asperiores delectus officiis eligendi ipsam totam voluptatibus autem
-          dignissimos? Debitis laudantium nam quo beatae illum. Deserunt libero
-          placeat eius expedita error dicta accusamus molestiae officiis
-          exercitationem, natus voluptas impedit quas aperiam commodi quos
-          corrupti quisquam ullam repellat rerum accusantium soluta et eligendi
-          repudiandae explicabo? A, nesciunt? Cupiditate quos voluptatum
-          perferendis ducimus, illum aliquam veniam modi itaque numquam voluptas
-          architecto assumenda? Vero soluta illo magnam, dolore sequi
-          consectetur ullam optio quo voluptates natus alias harum non fugiat
-          velit aliquid error rerum commodi repellendus eveniet quam ea
-          explicabo, consequuntur officia libero! Neque, corrupti iste illo ipsa
-          cum adipisci earum! Nostrum, nemo laudantium. Commodi nulla debitis
-          praesentium impedit consectetur dolore tempore itaque eos eligendi, ab
-          vero doloribus ex quas modi? In voluptate molestiae dolorem, eos non,
-          perferendis omnis quo ea sapiente et neque tempore natus reiciendis,
-          debitis dignissimos aliquam adipisci beatae assumenda dolores.
-          Quibusdam, voluptatibus quod. Rem tenetur deserunt officiis minima,
-          cupiditate animi magni beatae omnis enim libero dolore voluptatibus
-          inventore amet iure saepe fugit fugiat, quasi ratione minus architecto
-          delectus quaerat nihil corrupti? Magni quaerat quo amet tempora eum
-          possimus cumque aliquam? Repellendus eveniet quas quis autem quam,
-          officiis similique excepturi minus necessitatibus, quaerat itaque
-          voluptatibus nostrum atque laboriosam at. Itaque iste doloribus maxime
-          libero id fuga dolor iusto ipsum, delectus ex inventore! Nemo
-          accusantium, minus qui culpa suscipit est cum quae officiis magnam
-          atque maiores quidem in dolores, quaerat quos vitae doloremque cumque
-          consectetur repellendus. Ratione necessitatibus obcaecati nobis modi
-          explicabo, harum sequi neque repellat quibusdam! Voluptas laboriosam
-          rerum, ab eos culpa cupiditate quia doloribus quibusdam ducimus ut,
-          sequi numquam dolorem deleniti eligendi tempore praesentium itaque
-          porro. Molestias, explicabo praesentium suscipit modi ducimus
-          laudantium deserunt pariatur consectetur libero omnis mollitia
-          delectus ipsam doloribus provident saepe! Delectus, dicta. Sequi
-          aliquam repellendus repudiandae unde nulla? Perspiciatis atque
-          asperiores maiores accusantium suscipit totam adipisci, eligendi
-          temporibus nesciunt? Cum temporibus quo voluptatibus consequuntur modi
-          eius omnis amet non eum alias, corporis cumque reprehenderit
-          perferendis officiis iste ab possimus quia. Reiciendis esse deleniti,
-          consequatur facilis sunt eveniet maxime officia, distinctio quo
-          numquam quas provident deserunt blanditiis dignissimos maiores,
-          quisquam repudiandae aliquid hic harum impedit. Eum autem accusantium
-          sequi natus sunt pariatur nesciunt soluta illo repellendus repellat
-          animi sapiente hic labore minus vitae, eius, culpa minima. Sed
-          officiis deleniti fugiat, repudiandae eligendi porro omnis
-          accusantium? Modi neque corporis eius quos facilis consequuntur nisi
-          at magnam quis repellendus unde tempora tempore vitae eum autem sed
-          odio eligendi molestias minima dolorem velit officia, porro ipsam
-          labore? Nihil explicabo inventore tempora eos voluptates rem iusto
-          omnis sed. Commodi, consequatur omnis officiis libero temporibus
-          laudantium ipsam consequuntur facilis sint. Nisi fugiat cumque modi
-          dolores sint ut voluptate animi rem? Cumque ut pariatur minima
-          repellat repellendus commodi, eveniet atque nihil et ducimus
-          architecto temporibus consequatur quo corporis quod consectetur quis
-          rem rerum perspiciatis deserunt est officia facilis! Voluptates, illo
-          numquam in fuga molestiae, placeat officiis amet consectetur ipsa enim
-          dolorum est adipisci quaerat modi.
-        </p>
+        <p>{longDescription}</p>
       </div>
       <Footer></Footer>
     </div>

@@ -26,7 +26,7 @@ export const router = createBrowserRouter([
   },
   {
     path: "/SingleHomeData/:id",
-    loader: () => fetch("/Data8.json"),
+    loader: () => fetch("/Data20.json"),
     Component: SingleHomeData,
   },
   {

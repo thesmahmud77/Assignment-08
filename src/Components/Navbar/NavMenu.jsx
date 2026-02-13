@@ -23,12 +23,12 @@ const NavMenu = () => {
         <NavLink to={"/Installation"}>Installation</NavLink>
       </div>
       <div>
-        <Link to={"/"}>
-          <button className="bg-[#632EE3] flex items-center justify-between gap-5 p-5 py-3 rounded-xl text-white">
-            <FaGithubSquare />
+        <a href="https://github.com/thesmahmud77/Assignment-08" target="_blank">
+          <button className="bg-[#632EE3] flex items-center justify-between gap-5 p-5 py-3 rounded-xl text-white btn btn-soft btn-primary py-5 px-6 gap-3">
+            <FaGithubSquare className="h-50" />
             Contribute
           </button>
-        </Link>
+        </a>
       </div>
     </div>
   );
